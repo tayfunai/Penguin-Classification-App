@@ -3,6 +3,5 @@
 This App predicts the **Palmer Penguin** Species!
 
 Data obtained from [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins) in R by Allison Horst.
-<p>
-You can visit here https://penguin-classification-app-hcc4oachbhzsqmnp5iafgm.streamlit.app/</p>
-![image](https://github.com/tayfunai/Penguin-Classification-App/assets/78878836/bfd04726-b895-4ff3-b949-a57dd9b4c8cd)
+<p>Refernece to website:  https://irisflowerprediction-fcx48e3a3nvhnwzdqb4hga.streamlit.app/</p>
+<img src="https://raw.githubusercontent.com/tayfunai/Penguin-Classification-App/main/Screenshot%20from%202024-02-26%2009-18-04.png" alt="Penguin Prediction App Screen" style="height: 100%; width:100%;"/>
